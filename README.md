@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @decode2
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects to get a nice job
+- 👋 Hi, I’m Matías
+- I've been in IT since 2018 and coding since I was 13 years old.
+- I'm currently studying systems architecture and creating my own SaaS platforms.
+- Also created some gamemodes and plugins for game I used to love like CS 1.6 and CS:GO, most of them are still available opensourced. 
 - 📫 How to reach me? @Deco #2032 on Discord!
 
 <!---
