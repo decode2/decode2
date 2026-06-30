@@ -33,6 +33,9 @@ Full-stack multiplayer platform and open-source game systems work. Built and mai
 ### [Banking Movements REST API](https://github.com/decode2/OAuth2-Bancary-movements)
 Java/Spring Boot REST API project focused on secure banking movement retrieval using OAuth2/token-based authentication.
 
+### [RitualCounter](https://github.com/decode2/RitualCounter)
+Python desktop tool for Path of Exile 1 Ritual Vessel stock management, pricing, sales history, and trade message generation.
+
 ## Current direction
 
 I am interested in international remote opportunities as a **Software Engineer**, **SDET**, **Full-Stack Automation Engineer**, **Automation Lead**, or **AI-assisted Developer Tooling contributor**.
