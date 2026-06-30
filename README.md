@@ -21,8 +21,8 @@ I have 6+ years of experience building automation and quality systems across int
 
 ## Selected projects
 
-### [gentle-ai](https://github.com/decode2/gentle-ai)
-AI-assisted developer tooling work focused on agent workflows, skill orchestration, memory protocols, and software delivery productivity.
+### [gentle-ai contributor](https://github.com/Gentleman-Programming/gentle-ai)
+Open-source contributor to gentle-ai, working around AI-assisted developer tooling, agent workflows, skill orchestration, memory protocols, and software delivery productivity.
 
 ### [PIU Games / Zombie Survival](https://github.com/decode2/Zombie-Survival)
 Full-stack multiplayer platform and open-source game systems work. Built and maintained backend databases, APIs, server infrastructure, game logic, operational tooling, and user-facing systems for a community with 20k+ active users.
@@ -39,3 +39,4 @@ I am interested in international remote opportunities as a **Software Engineer**
 
 - LinkedIn: [matias-del-hoyo-b521aa184](https://www.linkedin.com/in/matias-del-hoyo-b521aa184/)
 - GitHub: [decode2](https://github.com/decode2)
+
