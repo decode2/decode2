@@ -1,10 +1,41 @@
-- 👋 Hi, I’m Matías
-- I've been in IT since 2018 and coding since I was 13 years old.
-- I'm currently studying systems architecture and creating my own SaaS platforms.
-- Also created some gamemodes and plugins for games I used to love like CS 1.6 and CS:GO, most of them are still available opensourced. 
-- 📫 How to reach me? @Deco #2032 on Discord!
+# Matías Del Hoyo
 
-<!---
-decode2/decode2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Engineer / SDET** focused on full-stack automation, API and web testing platforms, AI-assisted development workflows, and open-source developer tooling.
+
+I have 6+ years of experience building automation and quality systems across international, English-speaking teams. My work combines hands-on software development, full-stack validation, API automation, CI/CD quality practices, mentoring, technical interviewing, and automation leadership.
+
+## What I work on
+
+- **Full-stack automation:** API, UI, backend, frontend validation, regression strategy, reusable modules, and custom automation frameworks.
+- **Software engineering:** REST APIs, web applications, database-backed systems, integration patterns, refactoring, maintainability, and architecture-oriented decisions.
+- **AI-assisted engineering:** agent workflows, prompt/workflow automation, developer productivity, and human-directed AI development practices.
+- **Technical leadership:** automation hiring gatekeeping, candidate interviews, mentoring, internal trainings, technical conferences, code review, and QA practice standardization.
+- **Open source and product ownership:** developer tooling, game systems, backend services, and long-running community/product operations.
+
+## Core stack
+
+**Languages:** TypeScript, JavaScript, Java, C#, Groovy, Ruby, SQL  
+**Automation:** Playwright, Cypress, Selenium, Jest, Postman, ReadyAPI, API automation, UI automation  
+**Backend / Cloud / DevOps:** REST APIs, Spring Boot, MySQL, AWS, Azure, Docker, OpenShift, GitHub Actions, CI/CD  
+**AI / Tooling:** AI-assisted development workflows, agent tooling, prompt/workflow automation, gentle-ai
+
+## Selected projects
+
+### [gentle-ai](https://github.com/decode2/gentle-ai)
+AI-assisted developer tooling work focused on agent workflows, skill orchestration, memory protocols, and software delivery productivity.
+
+### [PIU Games / Zombie Survival](https://github.com/decode2/Zombie-Survival)
+Full-stack multiplayer platform and open-source game systems work. Built and maintained backend databases, APIs, server infrastructure, game logic, operational tooling, and user-facing systems for a community with 20k+ active users.
+
+### [Banking Movements REST API](https://github.com/decode2/OAuth2-Bancary-movements)
+Java/Spring Boot REST API project focused on secure banking movement retrieval using OAuth2/token-based authentication.
+
+### [Java/MySQL Contact Management System](https://github.com/decode2/SistemaGestion)
+Academic Java/MySQL application focused on CRUD operations, database-backed UI behavior, and basic application structure.
+
+## Current direction
+
+I am interested in international remote opportunities as a **Software Engineer**, **SDET**, **Full-Stack Automation Engineer**, **Automation Lead**, or **AI-assisted Developer Tooling contributor**.
+
+- LinkedIn: [matias-del-hoyo-b521aa184](https://www.linkedin.com/in/matias-del-hoyo-b521aa184/)
+- GitHub: [decode2](https://github.com/decode2)
