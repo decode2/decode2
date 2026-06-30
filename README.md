@@ -15,7 +15,7 @@ I have 6+ years of experience building automation and quality systems across int
 ## Core stack
 
 **Languages:** TypeScript, JavaScript, Java, C#, Groovy, Ruby, SQL  
-**Automation:** Playwright, Cypress, Selenium, Jest, Postman, ReadyAPI, Karate, API automation, UI automation  
+**Automation:** Playwright, Cypress, Selenium, Jest, Postman, ReadyAPI, API automation, UI automation  
 **Backend / Cloud / DevOps:** REST APIs, Spring Boot, ASP.NET Core, Entity Framework Core, MySQL, AWS, Azure, Docker, OpenShift, GitHub Actions, CI/CD  
 **AI / Tooling:** AI-assisted development workflows, agent tooling, prompt/workflow automation, gentle-ai
 
@@ -23,9 +23,6 @@ I have 6+ years of experience building automation and quality systems across int
 
 ### [TaskManagerApp](https://github.com/decode2/TaskManagerApp)
 Full-stack task management app with React, TypeScript, ASP.NET Core, Entity Framework Core, JWT authentication, calendar UI, and integration tests.
-
-### [Inventory API Test - Karate Framework](https://github.com/decode2/home-test-api-karate)
-SDET/API automation project using Java 17, Maven, Karate DSL, and Gherkin scenarios for API regression validation.
 
 ### [gentle-ai contributor](https://github.com/Gentleman-Programming/gentle-ai)
 Open-source contributor to gentle-ai, working around AI-assisted developer tooling, agent workflows, skill orchestration, memory protocols, and software delivery productivity.
